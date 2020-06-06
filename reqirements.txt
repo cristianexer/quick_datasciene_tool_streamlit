@@ -1,0 +1,6 @@
+sqlalchemy
+pandas
+scikit-learn
+streamlit
+xgboost
+matplotlib
